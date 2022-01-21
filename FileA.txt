@@ -1,2 +1,1 @@
-This is file A - Version-1
-Commit to GitHub
+This is file A - Version-2. Master
